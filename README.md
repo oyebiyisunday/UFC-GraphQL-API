@@ -1,6 +1,6 @@
 # UFC GraphQL API
 
-This project is a simple GraphQL API that exposes information about 20 active UFC fighters.
+This project used GraphQL API to expose information about 20 active UFC fighters.
 
 - Data is stored **in memory** (no database).
 - Implemented using **Apollo Server** and **GraphQL**.
